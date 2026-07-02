@@ -21,12 +21,19 @@ Chunking
 ↓
 
 Embeddings (Sentence Transformers)
+
 ↓
+
 ChromaDB
+
 ↓
+
 Semantic Retrieval
+
 ↓
+
 Answer + Source Citation
+
 
 ## Tech Stack
 
