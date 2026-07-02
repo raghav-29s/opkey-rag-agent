@@ -9,9 +9,7 @@ The system allows users to upload PDF documents, automatically index them into a
 ## Architecture
 
 PDF Upload
-
 ↓
-
 Text Extraction (PyPDF)
 ↓
 Chunking
