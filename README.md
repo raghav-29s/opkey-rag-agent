@@ -6,6 +6,7 @@ This project is a Dockerized Retrieval-Augmented Generation (RAG) system that en
 
 
 High-Level Architecture
+
                 ┌──────────────────┐
                 │   PDF Document   │
                 └────────┬─────────┘
