@@ -584,3 +584,7 @@ Given additional development time, the following enhancements would likely impro
 8. Add conversation memory for multi-turn interactions.
 
 These improvements would increase answer quality, robustness, and scalability while maintaining the overall architecture of the system.
+
+## Video link 
+
+https://drive.google.com/file/d/1uve9GYYJ3QBdItojJtK04ywL_8j-jFnH/view?usp=drivesdk
